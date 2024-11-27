@@ -1,0 +1,16 @@
+img{
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 20px;
+
+}
+.boy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.girl{
+     margin-left: 150px;
+     
+}
